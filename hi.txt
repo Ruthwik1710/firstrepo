@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 devops
+=======
+terraform
+>>>>>>> p4
