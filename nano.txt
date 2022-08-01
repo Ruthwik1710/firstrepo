@@ -1,0 +1,7 @@
+clone 
+edit or add files 
+git add
+git commit 
+git push
+username 
+password or access token
