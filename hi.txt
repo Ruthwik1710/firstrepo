@@ -5,3 +5,4 @@ devops
 terraform
 >>>>>>> p4
 hello
+git pull commands 
